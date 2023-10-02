@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1,CCTV4K
-http://china.733240.com/cqyx.php?id=CCTV4K
-#EXTINF:-1,CCTV16-4K
-http://china.733240.com/cqyx.php?id=CCTV16_4k
 #EXTINF:-1,CCTV-1
 http://china.733240.com/cqyx.php?id=cctv1HD
 #EXTINF:-1,CCTV-2
@@ -39,6 +35,10 @@ http://china.733240.com/cqyx.php?id=cctv15HD
 http://china.733240.com/cqyx.php?id=cctv16HD
 #EXTINF:-1,CCTV-17
 http://china.733240.com/cqyx.php?id=cctv17HD
+#EXTINF:-1,CCTV4K
+http://china.733240.com/cqyx.php?id=CCTV4K
+#EXTINF:-1,CCTV16-4K
+http://china.733240.com/cqyx.php?id=CCTV16_4k
 #EXTINF:-1,东南卫视
 http://china.733240.com/cqyx.php?id=dongnanHD
 #EXTINF:-1,东方卫视
