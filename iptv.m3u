@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1,CCTV-1666
+#EXTINF:-1,CCTV-1
 http://192.168.2.235:5600/index.php?id=cctv1HD
 #EXTINF:-1,CCTV-2
 http://192.168.2.235:5600/index.php?id=cctv2HD
