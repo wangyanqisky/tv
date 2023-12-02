@@ -141,6 +141,8 @@ http://192.168.2.235:5600/index.php?id=yswhHD
 http://192.168.2.235:5600/index.php?id=golfHD
 #EXTINF:-1,CCTV央视台球
 http://192.168.2.235:5600/index.php?id=ystqHD
+#EXTINF:-1,五星体育
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 
 #EXTINF:-1,凤凰卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
