@@ -105,11 +105,14 @@ CCTV-10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
 CCTV-12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
 CCTV-13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV-14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+
 音乐小石榴,https://www.goodiptv.club/huya/17091681
 铁齿铜牙纪晓岚,https://www.goodiptv.club/huya/11342396
 父母爱情,https://www.goodiptv.club/huya/11602071
 JJ斗地主,https://www.goodiptv.club/huya/14079954
 周星驰,https://www.goodiptv.club/huya/11342412
 周润发,https://www.goodiptv.club/huya/11342387
+李连杰,https://www.goodiptv.club/huya/11342390
 经典电影,https://www.goodiptv.club/huya/21384538
 金庸经典剧,https://www.goodiptv.club/huya/11602082
+倚天屠龙记,https://www.goodiptv.club/huya/11342403
