@@ -1,4 +1,4 @@
-
+央视频道,#genre#
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -17,6 +17,8 @@ CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+卫视频道,#genre#
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
@@ -60,7 +62,7 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 
-
+轮播频道,#genre#
 音乐小石榴,https://www.goodiptv.club/huya/17091681
 铁齿铜牙纪晓岚,https://www.goodiptv.club/huya/11342396
 父母爱情,https://www.goodiptv.club/huya/11602071
@@ -71,3 +73,31 @@ JJ斗地主,https://www.goodiptv.club/huya/14079954
 经典电影,https://www.goodiptv.club/huya/21384538
 金庸经典剧,https://www.goodiptv.club/huya/11602082
 倚天屠龙记,https://www.goodiptv.club/huya/11342403
+
+明星频道,#genre#
+刘德华,http://tx-screenshots.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv
+成龙,http://tx-screenshots.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.flv
+周星驰,http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
+李连杰,http://tx-screenshots.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.flv
+林正英,http://tx-screenshots.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv
+洪金宝,http://tx-screenshots.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.flv
+周润发,http://tx-screenshots.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.flv
+甄子丹,http://tx-screenshots.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.flv
+沈腾,http://tx-screenshots.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
+刘家辉,http://tx-screenshots.flv.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.flv
+黄渤,http://tx-screenshots.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.flv
+
+怀旧频道,#genre#
+咏春系列,http://tx-screenshots.flv.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.flv
+黑帮系列,http://tx-screenshots.flv.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.flv
+古墓系列,http://tx-screenshots.flv.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.flv
+赛车系列,http://tx-screenshots.flv.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.flv
+警匪系列,http://tx-screenshots.flv.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.flv
+中国功夫,http://tx-screenshots.flv.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.flv
+喜剧系列,http://tx-screenshots.flv.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.flv
+动作大片,http://tx-screenshots.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.flv
+玄幻系列,http://tx-screenshots.flv.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.flv
+古装武侠,http://tx-screenshots.flv.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.flv
+王晶导演,http://tx-screenshots.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.flv
+金庸武侠,http://tx-screenshots.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv
+贺岁大片,http://tx-screenshots.flv.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.flv
